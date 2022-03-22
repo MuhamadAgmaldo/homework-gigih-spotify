@@ -1,0 +1,9 @@
+.Card{
+    margin-top:  40px;
+    text-align: center;
+    flex-direction: column;
+}
+
+.text-component{
+    margin-top: 20px;
+}
