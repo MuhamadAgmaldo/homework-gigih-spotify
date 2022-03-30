@@ -1,13 +1,11 @@
-
 import './App.css';
-import Index from './pages/Index';
-
+import Index from './pages/spotify/Index';
 
 function App() {
   return (
-   <div className='App'>
-     <Index/>
-   </div> 
+    <div className='App'>
+      <Index/>
+    </div>
   );
 }
 
